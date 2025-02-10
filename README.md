@@ -1,5 +1,5 @@
 # EE 322 Engineering Design
-## Andrea Antropow
+## Andrea Antropow, *Electrical Engineering*
 ## Projects
 1. Assignment 0, GitHub Repository
 2. Assignment 1, Team Project Site
