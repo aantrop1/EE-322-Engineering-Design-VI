@@ -9,12 +9,13 @@
 6. **Assignment 5**, Intellectual Properties
 7. **Assignment 6**, Abstraction and Modeling
 8. **Assignment 7**, Synthesis
-9. **Assignment 8**, Ethics and Liability
-10. **Assignment 9**, Failure and Hazard Analysis
-11. **Assignment 10**, Design Analysis
-12. **Assignment 11**, Implementation
+   ---
+10. **Assignment 8**, Ethics and Liability
+11. **Assignment 9**, Failure and Hazard Analysis
+12. **Assignment 10**, Design Analysis
+13. **Assignment 11**, Implementation
 
-`print Welcome to my EE 322 Design Course`
-Horizontal Rule	---
+`print ("Welcome to my EE 322 Design Course")`
+	---
 Link	[title](https://www.example.com)
 Image	![alt text](image.jpg)
