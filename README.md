@@ -20,4 +20,4 @@
 13. **Assignment 11**, Implementation
 
 ---
-Image	![alt text](image.jpg)
+Image	![Headshot](andreapicture.jpg)
