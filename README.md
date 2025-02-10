@@ -20,4 +20,4 @@
 13. **Assignment 11**, Implementation
 
 ---
-Image	![](andreapicture.jpg|250)
+Image	![](andreapicture.jpg|width=250)
