@@ -14,7 +14,7 @@
 12. **Assignment 10**, Design Analysis
 13. **Assignment 11**, Implementation
 
-#### `print ("Welcome to my EE 322 Design Course")`
+#### print `("Welcome to my EE 322 Design Course")`
 	---
 Link	[title](https://www.example.com)
 Image	![alt text](image.jpg)
