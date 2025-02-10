@@ -1,7 +1,7 @@
 # EE 322 Engineering Design VI
 ## Andrea Antropow, *Electrical Engineering*
 [Resume](file:///C:/Users/Andrea/Downloads/Andrea%20Antropow%20Resume%202024.pdf)
-## [Team Project Site](https://sites.google.com/stevens.edu/cpe322-group/home)
+#### [Team Project Site](https://sites.google.com/stevens.edu/cpe322-group/home)
 ## Projects
 1. **Assignment 0**, GitHub Repository
 2. **Assignment 1**, Team Project Site
@@ -18,5 +18,4 @@
 ---
 #### `print ("Welcome to my EE 322 Design Course")`
 ---
-Link	[title](https://www.example.com)
 Image	![alt text](image.jpg)
