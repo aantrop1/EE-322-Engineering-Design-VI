@@ -1,4 +1,4 @@
-Heading	# H1 Andrea Antropow
+# Andrea Antropow
 Bold	**bold text**
 Italic	*italicized text*
 Blockquote	> blockquote
