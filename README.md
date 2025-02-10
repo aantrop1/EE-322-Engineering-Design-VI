@@ -20,4 +20,4 @@
 13. **Assignment 11**, Implementation
 
 ---
-Image	![](andreapicture.jpg =250x250)
+Image	![alt|500](andreapicture.jpg)
