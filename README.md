@@ -9,7 +9,6 @@
 6. **Assignment 5**, Intellectual Properties
 7. **Assignment 6**, Abstraction and Modeling
 8. **Assignment 7**, Synthesis
-   ---
 10. **Assignment 8**, Ethics and Liability
 11. **Assignment 9**, Failure and Hazard Analysis
 12. **Assignment 10**, Design Analysis
