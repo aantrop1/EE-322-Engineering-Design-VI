@@ -20,4 +20,4 @@
 13. **Assignment 11**, Implementation
 
 ---
-Image	![Headshot](andreapicture.jpg)
+Image	![](andreapicture.jpg) = =250x250
