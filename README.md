@@ -1,5 +1,6 @@
 # EE 322 Engineering Design VI
-## Andrea Antropow, *Electrical Engineering*
+## Andrea Antropow, *Electrical Engineering
+[Resume](file:///C:/Users/Andrea/Downloads/Andrea%20Antropow%20Resume%202024.pdf)
 ## Projects
 1. **Assignment 0**, GitHub Repository
 2. **Assignment 1**, Team Project Site
@@ -13,7 +14,7 @@
 11. **Assignment 9**, Failure and Hazard Analysis
 12. **Assignment 10**, Design Analysis
 13. **Assignment 11**, Implementation
-
+---
 #### `print ("Welcome to my EE 322 Design Course")`
 ---
 Link	[title](https://www.example.com)
