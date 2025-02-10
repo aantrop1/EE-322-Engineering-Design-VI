@@ -1,4 +1,6 @@
-# Andrea Antropow
+# EE 322 Engineering Design
+## Andrea Antropow
+###
 Bold	**bold text**
 Italic	*italicized text*
 Blockquote	> blockquote
