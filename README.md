@@ -1,5 +1,5 @@
 # EE 322 Engineering Design VI
-## Andrea Antropow, *Electrical Engineering
+## Andrea Antropow, *Electrical Engineering*
 [Resume](file:///C:/Users/Andrea/Downloads/Andrea%20Antropow%20Resume%202024.pdf)
 ## Projects
 1. **Assignment 0**, GitHub Repository
