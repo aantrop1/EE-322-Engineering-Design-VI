@@ -2,7 +2,7 @@
 ## Andrea Antropow, *Electrical Engineering*
 > [Resume](https://github.com/aantrop1/EE-322-Engineering-Design-VI/blob/main/Andrea%20Antropow%20Resume%201-24-2024.pdf)
 ---
-> Interests:
+Interests:
 > - electronics and embedded systems
 > - classic rock music
 > - drawing and coloring
