@@ -10,4 +10,13 @@
 ## pwd
 ![image](https://github.com/user-attachments/assets/ea2d8b8f-c0b8-4971-b6f6-4320c900dbe2)
 
+## git clone
+![image](https://github.com/user-attachments/assets/8aa4d7ed-0eee-4079-9aee-2043ba89f232)
+
+## cd iot
+![image](https://github.com/user-attachments/assets/e538d2e1-3a53-4eea-9059-84757a91b5ae)
+
+## ls
+![image](https://github.com/user-attachments/assets/64dbe803-5e83-4520-8009-ea876904b55d)
+
 
