@@ -7,7 +7,7 @@
 ## ps
 ![image](https://github.com/user-attachments/assets/4da8af3c-e1f3-47b5-b662-a373595055cf)
 
-##pwd
+## pwd
 ![image](https://github.com/user-attachments/assets/ea2d8b8f-c0b8-4971-b6f6-4320c900dbe2)
 
 
