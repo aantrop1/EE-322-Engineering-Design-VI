@@ -11,18 +11,17 @@ Interests:
 > [Team Project Site](https://sites.google.com/stevens.edu/cpe322-group/home)
 ---
 ### Labs
-1. **Assignment 0**, GitHub Repository *create github repository
-2. **Assignment 1**, Team Project Site
-3. **Assignment 2**, Needs Assessment
-4. **Assignment 3**, Problem Formulation
-5. **Assignment 4**, Solution Development
-6. **Assignment 5**, Intellectual Properties
-7. **Assignment 6**, Abstraction and Modeling
-8. **Assignment 7**, Synthesis
-10. **Assignment 8**, Ethics and Liability
-11. **Assignment 9**, Failure and Hazard Analysis
-12. **Assignment 10**, Design Analysis
-13. **Assignment 11**, Implementation
+1. **Lab 0**, GitHub Repository 
+2. **Lab 1**, GHDL and GTKWave
+3. **Lab 2**, Needs Assessment
+4. **Lab 3**, Problem Formulation
+5. **Lab 4**, Solution Development
+6. **Lab 5**, Intellectual Properties
+7. **Lab 6**, Abstraction and Modeling
+8. **Lab 7**, Synthesis
+9. **Lab 8**, Ethics and Liability
+10. **Lab 9**, Failure and Hazard Analysi
+11. **Lab 10**, Design Analysis
 
 ---
 ![](andreapicture.jpg)
