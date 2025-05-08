@@ -37,6 +37,37 @@
 ## cat file
  ![image](https://github.com/user-attachments/assets/7ecc83e6-409d-4079-b837-da2477f5a761)
 
+## cp file file1 
+![image](https://github.com/user-attachments/assets/774af593-35f6-4d94-af42-3327996255ae)
+
+## mv file file2 
+![image](https://github.com/user-attachments/assets/88b9da27-7dc0-4187-b4e6-92c522ca12ea)
+
+## rm file2
+![image](https://github.com/user-attachments/assets/77e2650e-7c8e-4b73-8386-56a9324572c3)
+
+## clear
+![image](https://github.com/user-attachments/assets/02f788a9-ac3b-4649-9d8a-fa785863d939)
+
+## man uname
+![image](https://github.com/user-attachments/assets/d72b3e31-1d9d-4cd6-bc10-91afd919c862)
+
+## uname -a
+![image](https://github.com/user-attachments/assets/846c850e-c325-4938-85d6-4e6d091b0e84)
+
+## ipconfig
+![image](https://github.com/user-attachments/assets/03f7fb28-7e11-4b3e-8cf2-d6babe7254ee)
+
+## ping localhost
+![image](https://github.com/user-attachments/assets/10eb5e8b-022e-40a5-aef0-23853d5f6ba5)
+
+## netstat
+![image](https://github.com/user-attachments/assets/397c19aa-9d9e-4d18-afc6-2aac9b7ed44a)
+
+
+
+
+
 
 
 
