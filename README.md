@@ -12,7 +12,7 @@ Interests:
 ---
 ### Labs
 1. **Lab 0**, GitHub Repository 
-2. **Lab 1**, [GHDl and GTKWave](https://github.com/aantrop1/EE-322-Engineering-Design-VI/blob/main/Lab%201/README.md)
+2. **Lab 1**, [GHDL and GTKWave](https://github.com/aantrop1/EE-322-Engineering-Design-VI/blob/main/Lab%201/README.md)
 3. **Lab 2**, Needs Assessment
 4. **Lab 3**, Problem Formulation
 5. **Lab 4**, Solution Development
