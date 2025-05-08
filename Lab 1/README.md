@@ -12,13 +12,13 @@ gtkwave ha.vcd
 
 ![Screenshot 2025-05-08 155613](https://github.com/user-attachments/assets/56014945-65a3-477f-9097-e26cde2f896e)
 
-## 4-to-1 Multiplexer Example
+## D Flip-Flop Example
 ```console
-ghdl -a mux.vhdl
-ghdl -a mux_tb.vhdl
-ghdl -e mux_tb
-ghdl -r mux_tb --vcd=mux.vcd
-gtkwave mux.vcd
+$ ghdl -a dff.vhdl
+$ ghdl -a dff_tb.vhdl
+$ ghdl -e dff_tb
+$ ghdl -r dff_tb --vcd=dff.vcd
+$ gtkwave dff.vcd
 ```
 ![image](https://github.com/user-attachments/assets/a712e2cd-35ff-4911-9601-d6e3c76bfc30)
 
