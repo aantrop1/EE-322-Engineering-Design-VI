@@ -19,4 +19,24 @@
 ## ls
 ![image](https://github.com/user-attachments/assets/64dbe803-5e83-4520-8009-ea876904b55d)
 
+## cd 
+![image](https://github.com/user-attachments/assets/d84cb776-076c-47cc-a364-a0adb7f1f476)
+
+## df
+![image](https://github.com/user-attachments/assets/313d90de-1a53-4fc5-a2c4-c499d84101d7)
+
+## mkdir demo
+![image](https://github.com/user-attachments/assets/f098511e-f737-4306-aba0-32faf921bf89)
+
+## cd demo
+![image](https://github.com/user-attachments/assets/0b4244da-f0fd-4a6e-bf6a-4c1caad9b0ce)
+
+## nano file
+![image](https://github.com/user-attachments/assets/284a47ad-d06b-41c3-b54d-9e5a36c98fbe)
+
+## cat file
+ ![image](https://github.com/user-attachments/assets/7ecc83e6-409d-4079-b837-da2477f5a761)
+
+
+
 
