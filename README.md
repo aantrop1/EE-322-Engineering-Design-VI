@@ -12,7 +12,7 @@ Interests:
 ---
 ### Labs
 1. **Lab 0**, GitHub Repository 
-2. **Lab 1**, GHDL and GTKWave
+2. **Lab 1**, [GHDL and GTKWave](Lab 1/README.md)
 3. **Lab 2**, Needs Assessment
 4. **Lab 3**, Problem Formulation
 5. **Lab 4**, Solution Development
