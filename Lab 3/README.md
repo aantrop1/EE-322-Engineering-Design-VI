@@ -4,8 +4,6 @@ I used the following code to change to the iot/lesson 3 directory.
 ```console
 cd ~\iot
 cd *3
-
-python3 julian.py
 ```
 I also needed to install the required python packages needed. 
 ```console
