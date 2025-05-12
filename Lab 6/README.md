@@ -31,12 +31,11 @@ Program updated and display how ever many times the user refreshed. Also shows t
 ![image](https://github.com/user-attachments/assets/efb2b8de-d371-43a7-9945-ffdaa915beb7)
 
 ## Installing Pystache 
-
-![image](https://github.com/user-attachments/assets/16ca2f51-f45a-45d5-a214-80364a1511ae)
+![image](https://github.com/user-attachments/assets/f7eb6193-1936-4e34-8d4d-810466d900c9)
 
 I ran the commands cat ```say_hello.py``` and ```cat say_hello.mustache``` before running the code ```python3 say_hello.py```. This allowed me to view the Python script and the mustache template in advance.
 
-![image](https://github.com/user-attachments/assets/f7eb6193-1936-4e34-8d4d-810466d900c9)
+![image](https://github.com/user-attachments/assets/16ca2f51-f45a-45d5-a214-80364a1511ae)
 
 ## ```python3 say_hello.py```
 ![image](https://github.com/user-attachments/assets/c4885433-32cc-4e23-b550-ae2e0063b842)
