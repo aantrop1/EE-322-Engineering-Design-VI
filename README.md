@@ -18,7 +18,7 @@ Interests:
 5. **Lab 4**, 
 6. **Lab 5**, [Paho-MQTT](https://github.com/aantrop1/EE-322-Engineering-Design-VI/blob/main/Lab%205/README.md)
 7. **Lab 6**, [Node.js and Pystache](https://github.com/aantrop1/EE-322-Engineering-Design-VI/blob/main/Lab%206/README.md)
-8. **Lab 7**, 
+8. **Lab 7**, [Thingspeak and Google Sheets](https://github.com/aantrop1/EE-322-Engineering-Design-VI/blob/main/Lab%207/README.md)
 9. **Lab 8**, 
 10. **Lab 9**, 
 11. **Lab 10**, 
