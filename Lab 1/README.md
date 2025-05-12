@@ -1,4 +1,5 @@
 # Lab 1 - GHDL and GTKWave
+I pledge my honor that I have abided by the Stevnes Honor System - _Andrea Antropow_
 
 ## Half Adder Example
 ```console
