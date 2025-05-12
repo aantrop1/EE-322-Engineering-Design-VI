@@ -4,7 +4,8 @@ I pledge my honor that I have abided by the Stevnes Honor System - _Andrea Antro
 I already had a MathWorks account so I signed in to ThingSpeak. Then, I created a new channel called cpu_loop with fields for cpu_pc and mem_avail_mb.
 Ran following code
 
-```$ sudo pip3 install -U psutil```
+```sh
+$ sudo pip3 install -U psutil
 $ cd ~/demo
 $ cp ~/iot/lesson7/thingspeak_cpu_loop.py .
 $ cp ~/iot/lesson7/thingspeak_feed.py .
@@ -12,7 +13,8 @@ $ cat thingspeak_cpu_loop.py
 $ cat thingspeak_feed.py
 $ python3 thingspeak_feed.py
 An API key savefile was not found. Enter Write API Key >>>
-Should we save this key for future use? [y/N] >>> ```
+Should we save this key for future use? [y/N] >>>
+```
 
 ![image](https://github.com/user-attachments/assets/6c1f0ab8-077d-45e3-862b-e2395c9cd44c)
 
