@@ -17,7 +17,7 @@ Interests:
 4. **Lab 3**, [Problem Formulation](https://github.com/aantrop1/EE-322-Engineering-Design-VI/tree/main/Lab%203/README.md)
 5. **Lab 4**, 
 6. **Lab 5**, [Paho-MQTT](https://github.com/aantrop1/EE-322-Engineering-Design-VI/blob/main/Lab%205/README.md)
-7. **Lab 6**, 
+7. **Lab 6**, [Node.js and Pystache](https://github.com/aantrop1/EE-322-Engineering-Design-VI/blob/main/Lab%206/README.md)
 8. **Lab 7**, 
 9. **Lab 8**, 
 10. **Lab 9**, 
