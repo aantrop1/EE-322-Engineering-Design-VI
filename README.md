@@ -15,13 +15,13 @@ Interests:
 2. **Lab 1**, [GHDL and GTKWave](https://github.com/aantrop1/EE-322-Engineering-Design-VI/blob/main/Lab%201/README.md)
 3. **Lab 2**, [Command Line](https://github.com/aantrop1/EE-322-Engineering-Design-VI/tree/main/Lab%202/README.md) 
 4. **Lab 3**, [Problem Formulation](https://github.com/aantrop1/EE-322-Engineering-Design-VI/tree/main/Lab%203/README.md)
-5. **Lab 4**, Solution Development
-6. **Lab 5**, Intellectual Properties
-7. **Lab 6**, Abstraction and Modeling
-8. **Lab 7**, Synthesis
-9. **Lab 8**, Ethics and Liability
-10. **Lab 9**, Failure and Hazard Analysi
-11. **Lab 10**, Design Analysis
+5. **Lab 4**, 
+6. **Lab 5**, 
+7. **Lab 6**, 
+8. **Lab 7**, 
+9. **Lab 8**, 
+10. **Lab 9**, 
+11. **Lab 10**, 
 
 ---
 ![](andreapicture.jpg)
