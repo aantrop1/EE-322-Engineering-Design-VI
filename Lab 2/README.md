@@ -4,6 +4,7 @@ I ran the following commands in Git Bash and reported the results.
 Display's the name assigned to the computer on the network
 
 ![Screenshot 2025-05-08 163433](https://github.com/user-attachments/assets/d4f0f6b3-9018-4bbd-929c-14b7cbbda2a2)
+
 ## env
 ### Shows all enviornment variables
 ![image](https://github.com/user-attachments/assets/9f068460-fe8e-496f-b3a1-7117b3b44bbf)
