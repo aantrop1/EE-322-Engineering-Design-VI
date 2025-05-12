@@ -3,8 +3,8 @@ I pledge my honor that I have abided by the Stevnes Honor System - _Andrea Antro
 ## ThingSpeak
 I already had a MathWorks account so I signed in to ThingSpeak. Then, I created a new channel called cpu_loop with fields for cpu_pc and mem_avail_mb.
 Ran following code
-console```
-$ sudo pip3 install -U psutil
+
+```$ sudo pip3 install -U psutil```
 $ cd ~/demo
 $ cp ~/iot/lesson7/thingspeak_cpu_loop.py .
 $ cp ~/iot/lesson7/thingspeak_feed.py .
