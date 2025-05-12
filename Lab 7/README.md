@@ -2,6 +2,7 @@
 I pledge my honor that I have abided by the Stevnes Honor System - _Andrea Antropow_
 ## ThingSpeak
 I already had a MathWorks account so I signed in to ThingSpeak. Then, I created a new channel called cpu_loop with fields for cpu_pc and mem_avail_mb.
+---
 Ran following code
 
 ```sh
