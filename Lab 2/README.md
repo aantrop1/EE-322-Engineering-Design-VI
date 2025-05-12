@@ -1,7 +1,7 @@
 # Lab 2 - Command Line
 
 ## hostname
-### Display's the name assigned to the computer on the network
+Display's the name assigned to the computer on the network
 ![Screenshot 2025-05-08 163433](https://github.com/user-attachments/assets/d4f0f6b3-9018-4bbd-929c-14b7cbbda2a2)
 ## env
 ### Shows all enviornment variables
