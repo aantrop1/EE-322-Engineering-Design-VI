@@ -1,4 +1,5 @@
 # Lab 3- Python
+I pledge my honor that I have abided by the Stevnes Honor System - _Andrea Antropow_
 ## Setup and Install Required Packages
 I used the following code to change to the iot/lesson 3 directory. 
 ```console
