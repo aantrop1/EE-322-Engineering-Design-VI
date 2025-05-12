@@ -49,5 +49,8 @@ Needed to use ```nano cpu_spreadsheet.py``` to change it to my API information.
 
 Ran the ```python3 cpu_spreadsheet.py```
 
+![image](https://github.com/user-attachments/assets/aaa1c7f4-512d-4b63-b2f5-7171b9338cee)
+
+
 The Google Sheet updated very close to every 10 seconds with new data. 
 ![image](https://github.com/user-attachments/assets/31bd655b-da6e-45fa-a85c-c5a0323fa5af)
