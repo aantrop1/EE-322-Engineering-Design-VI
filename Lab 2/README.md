@@ -1,4 +1,5 @@
 # Lab 2 - Command Line
+I pledge my honor that I have abided by the Stevnes Honor System - _Andrea Antropow_
 I ran the following commands in Git Bash and reported the results. 
 
 ## hostname
