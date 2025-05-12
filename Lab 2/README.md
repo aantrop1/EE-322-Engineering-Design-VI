@@ -1,5 +1,6 @@
 # Lab 2 - Command Line
 I ran the following commands in Git Bash and reported the results. 
+
 ## hostname
 Displays the name assigned to the computer on the network.
 
@@ -85,19 +86,28 @@ Clears all previous commands from terminal screen.
 ![image](https://github.com/user-attachments/assets/02f788a9-ac3b-4649-9d8a-fa785863d939)
 
 ## man uname
+In order to use this command, you must install the manual database first. Instead, I used the command $uname --help. 
 
 ![image](https://github.com/user-attachments/assets/d72b3e31-1d9d-4cd6-bc10-91afd919c862)
 
 ## uname -a
+Prints all avaliable system information.
+
 ![image](https://github.com/user-attachments/assets/846c850e-c325-4938-85d6-4e6d091b0e84)
 
 ## ipconfig
+Displays network configuration.
+
 ![image](https://github.com/user-attachments/assets/03f7fb28-7e11-4b3e-8cf2-d6babe7254ee)
 
 ## ping localhost
+Tests if a network connection to the localhost is working properly. 
+
 ![image](https://github.com/user-attachments/assets/10eb5e8b-022e-40a5-aef0-23853d5f6ba5)
 
 ## netstat
+Displays network statistics.
+
 ![image](https://github.com/user-attachments/assets/397c19aa-9d9e-4d18-afc6-2aac9b7ed44a)
 
 
