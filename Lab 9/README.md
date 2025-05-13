@@ -21,7 +21,7 @@ Converted .yang to .yin using ```pyang -f yin -o intrusiondetection.yin intrusio
 
 ![image](https://github.com/user-attachments/assets/567ec778-206d-4884-b408-cfdb5d01e2e8)
 
-![image](https://github.com/user-attachments/assets/7a31e153-c932-4fce-9579-1bac05bc10a3)
+
 
 
 
