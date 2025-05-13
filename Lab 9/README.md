@@ -19,8 +19,11 @@ Converted .yang to .yin using ```pyang -f yin -o intrusiondetection.yin intrusio
 
 ![image](https://github.com/user-attachments/assets/f801924b-1121-44b2-bd62-7b3ff26ccd34)
 
+Converted the .yang file to .uml, using ```pyang -f uml -o intrusiondetections.uml --uml-no=stereotypes,annotation,typedef```
 
 ![image](https://github.com/user-attachments/assets/567ec778-206d-4884-b408-cfdb5d01e2e8)
+
+Generated the diagram by using ```python -m plantuml intrusiondetection.uml```. 
 
 ![image](https://github.com/user-attachments/assets/0cf38c89-36ba-4044-98bb-2144522fac71)
 
