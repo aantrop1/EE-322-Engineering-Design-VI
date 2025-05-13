@@ -20,7 +20,7 @@ Interests:
 7. **Lab 6**, [Node.js and Pystache](https://github.com/aantrop1/EE-322-Engineering-Design-VI/blob/main/Lab%206/README.md)
 8. **Lab 7**, [Thingspeak and Google Sheets](https://github.com/aantrop1/EE-322-Engineering-Design-VI/blob/main/Lab%207/README.md)
 9. **Lab 8**, 
-10. **Lab 9**, 
+10. **Lab 9**, [YANG](https://github.com/aantrop1/EE-322-Engineering-Design-VI/blob/main/Lab%209/README.md)
 11. **Lab 10**, 
 
 ---
